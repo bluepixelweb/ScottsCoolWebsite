@@ -1,0 +1,15 @@
+{
+  "name": "Blue Pixel Web Development",
+  "email": "mike@bluepixel.dev",
+  "phone": "216-412-3566",
+  "phoneFormatted": "(216) 412-3566",
+  "address": {
+    "lineOne": "123 Main st.",
+    "lineTwo": "Second Address Line, If Needed",
+    "city": "Cleveland",
+    "county": "OH",
+    "postcode": "44147",
+    "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+  },
+  "domain": "www.bluepixel.dev"
+}
